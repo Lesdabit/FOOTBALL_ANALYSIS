@@ -1,3 +1,4 @@
 opencv-python
 ultralytics
 supervision
+scikit-learn
